@@ -1,0 +1,20 @@
+{
+  "name": "backend-proyect",
+  "version": "1.0.0",
+  "description": "Proyecto backend VueJS - MongoDB - Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejandro-HB/backend-proyect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejandro-HB/backend-proyect/issues"
+  },
+  "homepage": "https://github.com/Alejandro-HB/backend-proyect#readme"
+}
